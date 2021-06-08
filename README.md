@@ -3,3 +3,5 @@ Learning the game!
 
 Here I am, watching the homeland, learning github, learning to code.
 Preparing for a career change, a freshman again!
+
+Added line 7 on June 7, 2021
